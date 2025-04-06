@@ -6,7 +6,7 @@ module.exports = {
     [
       '@docusaurus/preset-classic',
       {
-        docs: false,
+        // docs: false,
         blog: false,
       },
     ],
